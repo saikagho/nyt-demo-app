@@ -1,0 +1,48 @@
+.container{
+    width: 70% !important;
+}
+
+.card {
+    border: 0px !important;
+    background-color: inherit !important;
+    font-family: 'Roboto', serif;
+}
+
+.card-body{
+    padding: 1rem 0rem !important;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.card-text{
+    font-style: italic;
+    font-weight: 600;
+}
+
+.card-footer {
+    background-color: inherit !important;
+    padding: 1rem 1rem 1rem 0rem !important;
+}
+
+.image-background{
+    height: 60px;
+    width: 60px;
+    background-color: grey;
+    border-radius: 80%;
+}
+
+.card-footer .text-muted{
+    color:darkgray !important;
+}
+
+.btn-primary {
+    background-color: inherit !important;
+    border: none !important;
+}
+
+.btn:focus,.btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
